@@ -74,3 +74,4 @@ mfinsight/               # React frontend
 - Frontend: `npm run build && npx serve dist`
 
 ## 🏠 HomestayHub
+"# homestay-fullstack-mysql-hrq" 
